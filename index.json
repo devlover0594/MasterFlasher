@@ -1,0 +1,13 @@
+{
+  "version": "1.0",
+  "apps": [
+    {
+      "id": "sensor_suhu",
+      "name": "Sensor Suhu DHT22",
+      "category": "Sensor",
+      "icon_url": "https://raw.githubusercontent.com/flutter/website/main/src/assets/images/docs/flutter-lockup.png",
+      "description": "Membaca suhu & kelembapan via MQTT",
+      "manifest_url": "https://raw.githubusercontent.com/username/repo/main/firmware/sensor_suhu/manifest.json"
+    }
+  ]
+}
