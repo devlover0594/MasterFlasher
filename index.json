@@ -7,7 +7,7 @@
       "category": "Sensor",
       "icon_url": "https://raw.githubusercontent.com/flutter/website/main/src/assets/images/docs/flutter-lockup.png",
       "description": "Membaca suhu & kelembapan via MQTT",
-      "manifest_url": "https://raw.githubusercontent.com/username/repo/main/firmware/sensor_suhu/manifest.json"
+      "manifest_url": "https://raw.githubusercontent.com/devlover0594/MasterFlasher/refs/heads/main/firmware/sensor_suhu/manifest.json"
     }
   ]
 }
