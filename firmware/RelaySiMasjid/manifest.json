@@ -1,0 +1,25 @@
+{
+  "app_id": "relay_simasjid",
+  "name": "Relay SiMasjid",
+  "readme_url": "https://raw.githubusercontent.com/user/repo/main/firmware/RelaySiMasjid/README.md",
+  "supported_boards": [
+    {
+      "chip": "ESP32",
+      "board_name": "ESP32 DevKit V1",
+      "baud_rate": 115200,
+      "flash_offset": "0x10000",
+      "firmware_url": "https://raw.githubusercontent.com/user/repo/main/firmware/RelaySiMasjid/firmware.bin",
+      "version": "1.0.2",
+      "md5": "e99a18c428cb38d5f260853678922e03"
+    },
+    {
+      "chip": "ESP8266",
+      "board_name": "NodeMCU V3 / ESP-12E",
+      "baud_rate": 115200,
+      "flash_offset": "0x00000",
+      "firmware_url": "https://raw.githubusercontent.com/user/repo/main/firmware/RelaySiMasjid/firmware.bin",
+      "version": "1.0.0",
+      "md5": "8023e20212d326372f23249112948191"
+    }
+  ]
+}
