@@ -20,7 +20,7 @@
       "category": "Relay",
       "icon_url": "https://raw.githubusercontent.com/flutter/website/main/src/assets/images/docs/flutter-lockup.png",
       "description": "Mengontrol Relay Dengan perintah http",
-      "manifest_url": "https://raw.githubusercontent.com/devlover0594/MasterFlasher/refs/heads/main/firmware/relaysimasjid/manifest.json"
+      "manifest_url": "https://raw.githubusercontent.com/devlover0594/MasterFlasher/refs/heads/main/firmware/RelaySiMasjid/manifest.json"
     }
   ]
 }
